@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software and data package using the metadata below."
+title: "Javad-Alizargar/PINN_scRNA_Pancreatic_Velocity_Public: Initial reproducibility package"
+type: software
+authors:
+  - family-names: Alizargar
+    given-names: Javad
+version: v1.1
+date-released: 2026-09-04
+doi: 10.5281/zenodo.22304995
+repository-code: "https://github.com/Javad-Alizargar/PINN_scRNA_Pancreatic_Velocity_Public"

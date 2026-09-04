@@ -67,5 +67,8 @@ No IPMN cells passed the epithelial gate used for this fitted matrix, and PASC c
 
 ## Citation and archive
 
-The Zenodo DOI and final article citation will be inserted after archival release. Until then, cite this GitHub repository and retain the commit identifier used for analysis.
+Release v1.1 is archived on Zenodo at [https://doi.org/10.5281/zenodo.22304995](https://doi.org/10.5281/zenodo.22304995). The version DOI identifies the exact archived release; the concept DOI for all versions is `10.5281/zenodo.22304994`.
 
+**Software and data citation:** Javad-Alizargar. *Javad-Alizargar/PINN_scRNA_Pancreatic_Velocity_Public: Initial reproducibility package*. Version 1.1. Zenodo (2026). https://doi.org/10.5281/zenodo.22304995
+
+**Manuscript citation:** Alizargar, J. *Physics Informed Neural Networks Infer Pancreatic Cancer Pseudo Velocity from Public Single Cell Atlases*. Manuscript (2026). Associated code and data: https://doi.org/10.5281/zenodo.22304995
