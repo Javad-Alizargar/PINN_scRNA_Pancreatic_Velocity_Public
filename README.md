@@ -71,4 +71,4 @@ Release v1.1 is archived on Zenodo at [https://doi.org/10.5281/zenodo.22304995](
 
 **Software and data citation:** Javad-Alizargar. *Javad-Alizargar/PINN_scRNA_Pancreatic_Velocity_Public: Initial reproducibility package*. Version 1.1. Zenodo (2026). https://doi.org/10.5281/zenodo.22304995
 
-**Manuscript citation:** Alizargar, J. *Physics Informed Neural Networks Infer Pancreatic Cancer Pseudo Velocity from Public Single Cell Atlases*. Manuscript (2026). Associated code and data: https://doi.org/10.5281/zenodo.22304995
+**Manuscript citation:** Alizargar, J. & Lin, L.-J. *Physics Informed Neural Networks Infer Pancreatic Cancer Pseudo Velocity from Public Single Cell Atlases*. Manuscript (2026). Associated code and data: https://doi.org/10.5281/zenodo.22304995
